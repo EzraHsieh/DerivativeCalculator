@@ -26,16 +26,16 @@ pip install sympy matplotlib
 
 ## Usage
 
-1. Clone the repository or download the `derivative_calculator.py` file.
+1. Clone the repository or download the `DerivativeCalculator.py` file.
 
 2. Make sure you have Python and the required libraries installed.
 
-3. Open a terminal or command prompt and navigate to the directory where the `derivative_calculator.py` file is located.
+3. Open a terminal or command prompt and navigate to the directory where the `DerivativeCalculator.py` file is located.
 
 4. Run the program by executing the following command:
 
    ```
-   python derivative_calculator.py
+   python DerivativeCalculator.py
    ```
 
 5. Follow the instructions provided by the program to enter the function and variable for differentiation.
