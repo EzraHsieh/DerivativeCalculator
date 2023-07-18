@@ -3,7 +3,7 @@
 Author: Ezra Hsieh
 
 ## Acknowledgment
-This program was inspired by the Calculus with Python lectures delivered by Dr. Joseph Curtone of Johns Hopkins University.
+This program was inspired by the Calculus with Python lectures delivered by Dr. Joseph Cutrone of Johns Hopkins University.
 
 ## Description
 
